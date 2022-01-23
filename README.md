@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Fábio Kochem!
 
 - 🔭 I’m currently interested in Full-Stack
-- 🥋 I study language as a hobby!
+- 🥋 I study languages as a hobby!
 - Fluent in english
 - Basic/Intermediate in Italian
 
