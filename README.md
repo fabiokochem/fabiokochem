@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Fábio Kochem!
 
-- 🔭 I’m currently working with Full-Stack
-- 📚 Currently studying HTML5
-- 🥋 Judô and Jiu-Jitsu as a hobby!
+- 🔭 I’m currently interested in Full-Stack
+- 🥋 I study language as a hobby!
+- Fluent in english
+- Basic/Intermediate in Italian
 
 <div align="center">
   <a href="https://github.com/fabiokochem">
