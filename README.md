@@ -1,4 +1,4 @@
-## Olá! Eu sou o Fábio Kochem!
+## Hello! My name is Fábio Kochem!
 
 - 🔭 I’m currently interested in Full-Stack
 - 🥋 I study languages as a hobby!
