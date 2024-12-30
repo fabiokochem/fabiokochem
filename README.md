@@ -13,8 +13,8 @@
 
 - **Complex Algorithms**
   - An academic project developed by me to constantly review my implementations.
-  - I aim to help people who are unsure about how to implement or truly understand how the data structure works.
-  - You can find the implementation/explanation of the main data structures and topics related to algorithms.
+  - I aim to help people who are unsure about how to implement or truly understand how the data structure and algorithms works.
+  - You can find the implementation/explanation of the main data structures, algorithms and topics related to algorithms.
  
 - **Daily LeetCode Codes**
   - If you're looking for an implementation of a question from LeetCode, I might have already solved it!
