@@ -11,7 +11,7 @@
 
 ## Projects
 
-- [**Complex Algorithms**](fabiofkochem/ComplexAlgorithms)
+- [**Complex Algorithms**](ComplexAlgorithms)
   - An academic project developed by me to constantly review my implementations.
   - I aim to help people who are unsure about how to implement or truly understand how the data structure and algorithms works.
   - You can find the implementation/explanation of the main data structures, algorithms and topics related to algorithms.
