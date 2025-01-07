@@ -21,7 +21,7 @@
   - I share my solutions here with the intention of showcasing my approach to solving each problem.
   - By doing this, I can review my work and help others explore different ways of thinking about a problem.
 
-<div align="center">
+<div align="center"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=fabiokochem&show_icons=true&theme=great-gatsby" alt="Anurag's GitHub stats">
 </div>
 
@@ -43,7 +43,7 @@
 
 ##
 
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/fabiofreirekochem" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
   <a href = "mailto:fabiofkochem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
   <a href="https://instagram.com/fabiofkochem" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
