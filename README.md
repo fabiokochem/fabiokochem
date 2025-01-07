@@ -23,7 +23,7 @@
   
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiokochem&theme=great-gatsby&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiokochem&theme=great-gatsb&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokochem&layout=donut&theme=great-gatsby)](https://github.com/fabiokochem/github-readme-stats)
 
 <div style="display: inline_block"><br>
