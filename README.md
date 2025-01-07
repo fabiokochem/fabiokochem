@@ -23,6 +23,9 @@
   
 ##
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiokochem&show_icons=true&theme=great-gatsby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokochem&layout=donut&theme=great-gatsby)](https://github.com/fabiokochem/github-readme-stats)
+
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
