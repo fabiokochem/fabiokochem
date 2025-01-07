@@ -11,34 +11,34 @@
 
 ## Projects
 
-- [**AlgoQuest**](https://github.com/fabiokochem/AlgoQuest)
+- **AlgoQuest** (Actually private cause i'm updating)
   - An academic project developed by me to constantly review my implementations.
   - I aim to help people who are unsure about how to implement or truly understand how the data structure and algorithms works.
   - You can find the implementation/explanation of the main data structures, algorithms and topics related to algorithms.
  
-- [**Daily LeetCode Codes**](https://github.com/fabiokochem/DailyLeetCodes)
+- [**LeetCode Challenges**](https://github.com/fabiokochem/LeetCodeChall)
   - If you're looking for an implementation of a question from LeetCode, I might have already solved it!
   - I share my solutions here with the intention of showcasing my approach to solving each problem.
   - By doing this, I can review my work and help others explore different ways of thinking about a problem.
 
-- [**MiniShell**](https://github.com/fabiokochem/MiniShell)
+- **MiniShell** (Actually private cause i'm developing)
   - *Implemented using C++ and POSIX API(Linux/Unix).*
   - A Command Line Interpreter made by me to understand better system calls.
   - I implemented Piping, Redirection, Execute and Built-in Commands.
   - You can run common shell commands and compare their behavior with the real shell. :)
 
-- [**Nimbus**](https://github.com/fabiokochem/WeatherApp)
+- **Nimbus** (Actually private cause i'm developing)
   - *Implemented using Flask, HTML/CSS, API.*
   - A Weather app that fetches and displays weather data for a given location. 
   - I really use it during the day just to make me happy and proud haha.
   - Basically I did this just to practice my knowledge with API's.
  
-- [**My Tasks**](https://github.com/fabiokochem/TaskManagementApp)
+- **My Tasks** (Actually private cause i'm updating)
   - *Implemented using Java, JavaFX (for GUI), JDBC (for database) and MySQL.*
   - A app where I can create, view, update, and delete my tasks.
   - I basically created my tasks based on priority and the status of them to control during the day.
  
-- [**Student Grade System**](https://github.com/fabiokochem/StudentGradeSystem) 
+- **Student Grade System** (Actually private cause i'm developing)
   - *Implemented in C++.*
   - A app where the user can compute the average, highest, and lowest grades for each student, for each class.
   - It is possible to print a formatted report of all students and their grades.
