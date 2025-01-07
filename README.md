@@ -20,14 +20,12 @@
   - If you're looking for an implementation of a question from LeetCode, I might have already solved it!
   - I share my solutions here with the intention of showcasing my approach to solving each problem.
   - By doing this, I can review my work and help others explore different ways of thinking about a problem.
-  
-##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiokochem&show_icons=true&theme=great-gatsby)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokochem&layout=donut&theme=great-gatsby)](https://github.com/fabiokochem/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabiokochem&show_icons=true&theme=great-gatsby" alt="Anurag's GitHub stats">
+</div>
 
-<div style="display: inline_block"><br>
-
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
