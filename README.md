@@ -21,6 +21,11 @@
   - I share my solutions here with the intention of showcasing my approach to solving each problem.
   - By doing this, I can review my work and help others explore different ways of thinking about a problem.
 
+- [*MiniShell*](https://github.com/fabiokochem/MiniShell)
+  - Implemented using C and POSIX API (Linux/Unix).
+  - A Command Line Interpreter created to improve my understanding of system calls and process management.
+  - Features include support for Piping, Redirection, Job Control, and Custom Built-in Commands (e.g., cd, pwd, jobs).
+
 <div align="center"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=fabiokochem&show_icons=true&theme=great-gatsby" alt="Anurag's GitHub stats">
 </div>
