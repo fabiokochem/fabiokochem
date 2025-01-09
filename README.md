@@ -1,13 +1,14 @@
 ## Hi! I'm Fabio Freire Kochem 🙃
 
-🤍 I'm a Computer Science Student (6/8) and Research Assistant in love with Data Structures and Image Analysis!
+I'm a Computer Science Student (6/8) and Research Assistant in love with Data Structures and Image Analysis!
 
 ## Publications
 
 - **Measuring Hierarchiness of Image Segmentations**  
   *SIBGRAPI 2024 - 37th Conference on Graphics, Pattern and Images*  
   October 2024  
-  Felipe Belém, Fábio Kochem, Zenilton Patrocínio, Benjamin Perret, Jean Cousty, Alexandre Falcão, Silvio Jamil F. Guimarães, [Link to Paper](https://ieeexplore.ieee.org/document/10716344)
+  Felipe Belém, Fábio Kochem, Zenilton Patrocínio, Benjamin Perret, Jean Cousty, Alexandre Falcão, Silvio Jamil F. Guimarães
+  Link to Paper](https://ieeexplore.ieee.org/document/10716344)
 
 ## Projects
 
