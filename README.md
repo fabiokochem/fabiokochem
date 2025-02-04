@@ -27,7 +27,8 @@ I'm a Computer Science Student (6/8) and Research Assistant in love with Data St
   - Features include support for Piping, Redirection, Job Control, and Custom Built-in Commands (e.g., cd, pwd, jobs).
 
 <div align="center"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiokochem&show_icons=true&theme=great-gatsby" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=fabiokochem&show_icons=true&theme=great-gatsby" alt="Fabio's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokochem&layout=compact&theme=great-gatsby" alt="Fabio's Github stats">
 </div>
 
 <div style="display: inline_block" align="center"><br>
