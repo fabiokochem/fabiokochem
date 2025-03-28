@@ -26,6 +26,11 @@ I'm a Computer Science Student (6/8) and Research Assistant in love with Data St
   - A Command Line Interpreter created to improve my understanding of system calls and process management.
   - Features include support for Piping, Redirection, Job Control, and Custom Built-in Commands (e.g., cd, pwd, jobs).
 
+- [**MiniSharp**](https://github.com/fabiokochem/MiniSharp)
+  - Toy programming language interpreter implemented using C#.
+  - Demonstrates how a programming language works under the hood.
+  - Contains Lexical analysis, Recursive descent parser and Abstract Syntax Tree (AST) 
+
 <div align="center"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=fabiokochem&show_icons=true&theme=great-gatsby" alt="Fabio's GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiokochem&layout=compact&theme=great-gatsby" alt="Fabio's Github stats">
