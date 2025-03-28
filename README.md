@@ -21,6 +21,11 @@ I'm a Computer Science Student (6/8) and Research Assistant in love with Data St
   - I share my solutions here with the intention of showcasing my approach to solving each problem.
   - By doing this, I can review my work and help others explore different ways of thinking about a problem.
 
+- [**GraphVisualizer**](https://github.com/fabiokochem/GraphVisualizer)
+  - Interactive graph algorithms visualizer using Java with Swing
+  - It allows users to manually create graphs, add edges with custom weights.
+  - Visualize classic algorithms such as BFS, DFS, and Dijkstra in real-time, with animations.
+
 - [**MiniShell**](https://github.com/fabiokochem/MiniShell)
   - Implemented using C and POSIX API (Linux/Unix).
   - A Command Line Interpreter created to improve my understanding of system calls and process management.
@@ -30,11 +35,6 @@ I'm a Computer Science Student (6/8) and Research Assistant in love with Data St
   - Toy programming language interpreter implemented using C#.
   - Demonstrates how a programming language works under the hood.
   - Contains Lexical analysis, Recursive descent parser and Abstract Syntax Tree (AST)
-
-- [**GraphVisualizer**](https://github.com/fabiokochem/GraphVisualizer)
-  - Interactive graph algorithms visualizer using Java with Swing
-  - It allows users to manually create graphs, add edges with custom weights.
-  - Visualize classic algorithms such as BFS, DFS, and Dijkstra in real-time, with animations.
 
 <div align="center"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=fabiokochem&show_icons=true&theme=great-gatsby" alt="Fabio's GitHub stats">
