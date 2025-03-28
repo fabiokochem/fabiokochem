@@ -9,7 +9,7 @@ I'm a Computer Science Student (6/8) and Research Assistant in love with Data St
   October 2024  
   Felipe Belém, Fábio Kochem, Zenilton Patrocínio, Benjamin Perret, Jean Cousty, Alexandre Falcão, Silvio Jamil F. Guimarães, [Link to Paper](https://ieeexplore.ieee.org/document/10716344)
 
-## Projects
+## Major Projects
 
 - [**AlgoQuest**](https://github.com/fabiokochem/AlgoQuest)
   - An academic project developed by me to constantly review my implementations.
