@@ -29,7 +29,12 @@ I'm a Computer Science Student (6/8) and Research Assistant in love with Data St
 - [**MiniSharp**](https://github.com/fabiokochem/MiniSharp)
   - Toy programming language interpreter implemented using C#.
   - Demonstrates how a programming language works under the hood.
-  - Contains Lexical analysis, Recursive descent parser and Abstract Syntax Tree (AST) 
+  - Contains Lexical analysis, Recursive descent parser and Abstract Syntax Tree (AST)
+
+- [**GraphVisualizer**](https://github.com/fabiokochem/GraphVisualizer)
+  - Interactive graph algorithms visualizer using Java with Swing
+  - It allows users to manually create graphs, add edges with custom weights.
+  - Visualize classic algorithms such as BFS, DFS, and Dijkstra in real-time, with animations.
 
 <div align="center"><br>
   <img src="https://github-readme-stats.vercel.app/api?username=fabiokochem&show_icons=true&theme=great-gatsby" alt="Fabio's GitHub stats">
