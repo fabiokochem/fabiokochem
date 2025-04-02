@@ -15,16 +15,16 @@ I'm a Computer Science Student (6/8) and Research Assistant in love with Data St
   - An academic project developed by me to constantly review my implementations.
   - I aim to help people who are unsure about how to implement or truly understand how the data structure and algorithms works.
   - You can find the implementation/explanation of the main data structures, algorithms and topics related to algorithms.
- 
-- [**LeetCode Challenges**](https://github.com/fabiokochem/LeetCodeChall)
-  - If you're looking for an implementation of a question from LeetCode, I might have already solved it!
-  - I share my solutions here with the intention of showcasing my approach to solving each problem.
-  - By doing this, I can review my work and help others explore different ways of thinking about a problem.
 
 - [**GraphVisualizer**](https://github.com/fabiokochem/GraphVisualizer)
   - Interactive graph algorithms visualizer using Java with Swing
   - It allows users to manually create graphs, add edges with custom weights.
   - Visualize classic algorithms such as BFS, DFS, and Dijkstra in real-time, with animations.
+ 
+- [**LeetCode Challenges**](https://github.com/fabiokochem/LeetCodeChall)
+  - If you're looking for an implementation of a question from LeetCode, I might have already solved it!
+  - I share my solutions here with the intention of showcasing my approach to solving each problem.
+  - By doing this, I can review my work and help others explore different ways of thinking about a problem.
 
 - [**MiniShell**](https://github.com/fabiokochem/MiniShell)
   - Implemented using C and POSIX API (Linux/Unix).
